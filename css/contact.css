@@ -1,0 +1,73 @@
+input,button,textarea{font-family: inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border: 0;}
+a, a:visited{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400}
+/*--------------------------*/
+
+
+.call {
+	display: flex;
+	justify-content: center;
+	font: 22pt/20pt Stint-Ultra-Condensed;
+	margin-top: 500px;}
+
+.form-call { 
+	display: flex;
+	justify-content: center;}
+
+input {
+	width: 176px;
+	height: 24px;}	
+
+textarea { 
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	resize: none;
+	box-shadow: 0 3px 15px 4px rgb(0%, 0%, 0%, 0.90);
+	margin-top: 6px;}
+
+.new {
+	display: block;
+	margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 3px 15px 4px rgb(0%, 0%, 0%, 0.90);}
+
+
+
+
+
+
+.call {
+	display: flex;
+	justify-content: center;
+	font: 22pt/20pt Stint-Ultra-Condensed;
+	margin-top: 500px;}
+
+.form-call { 
+	display: flex;
+	justify-content: center;}
+
+input {
+	width: 176px;
+	height: 24px;}	
+
+textarea { 
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	resize: none;
+	box-shadow: 0 3px 15px 4px rgb(0%, 0%, 0%, 0.90);
+	margin-top: 6px;}
+
+.new {
+	display: block;
+	margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 3px 15px 4px rgb(0%, 0%, 0%, 0.90);}
